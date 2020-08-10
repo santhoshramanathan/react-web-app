@@ -40,8 +40,8 @@ vcsInfo:
   repoUrl: ""
   branch: ""
 
-partOf: atm-locator
+partOf: reactwebapp
 
-connectsTo: atm-locator-api
+connectsTo: 
 
 runtime: js
